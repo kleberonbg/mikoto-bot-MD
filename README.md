@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="900"/>
+<img src="[https://i.imgur.com/WwxBm8o.jpg](https://i.pinimg.com/736x/f8/b0/9c/f8b09c4a4e7db6e8784f71d0991fac7f.jpg)" alt="MIKOTO URABE " width="900"/>
 </p>
 
 ## 💻 PARA USUARIOS DE WINDOWS/VPS/RDP
